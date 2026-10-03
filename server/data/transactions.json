@@ -1,0 +1,14 @@
+[
+  {
+    "customId": "txn_101",
+    "dealerId": "usr_dealer_sub",
+    "dealerName": "Sunita & Rajesh Singhania",
+    "agencyName": "Apex Realty Solutions",
+    "planId": "plan_6m",
+    "planName": "Half-Year Momentum (6 Months)",
+    "amount": 8999,
+    "paymentMethod": "UPI / Razorpay",
+    "status": "SUCCESS",
+    "referenceId": "RZP_PAY_9812487123"
+  }
+]

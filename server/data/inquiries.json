@@ -1,0 +1,26 @@
+[
+  {
+    "customId": "inq_1",
+    "propertyId": "prop_1",
+    "propertyTitle": "3 BHK Sea-View Luxury Apartment in Worli",
+    "buyerId": "usr_buyer_1",
+    "buyerName": "Aarav Mehta",
+    "buyerEmail": "aarav.mehta@gmail.com",
+    "buyerPhone": "+91 98200 11223",
+    "ownerId": "usr_dealer_sub",
+    "message": "Hello, I am interested in scheduling a site visit this coming Saturday afternoon. Is price negotiable?",
+    "status": "NEW"
+  },
+  {
+    "customId": "inq_2",
+    "propertyId": "prop_2",
+    "propertyTitle": "4 BHK Independent Designer Villa in Whitefield",
+    "buyerId": "usr_buyer_1",
+    "buyerName": "Aarav Mehta",
+    "buyerEmail": "aarav.mehta@gmail.com",
+    "buyerPhone": "+91 98200 11223",
+    "ownerId": "usr_dealer_unsub",
+    "message": "Can you provide the floor plan and RERA registration documents? Interested for self-use.",
+    "status": "CONTACTED"
+  }
+]

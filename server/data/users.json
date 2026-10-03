@@ -1,0 +1,68 @@
+[
+  {
+    "customId": "usr_buyer_1",
+    "name": "Aarav Mehta",
+    "email": "buyer@ghardekho.com",
+    "role": "BUYER",
+    "phone": "+91 98200 11223",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150",
+    "savedProperties": ["prop_1", "prop_3"],
+    "city": "Mumbai"
+  },
+  {
+    "customId": "usr_owner_1",
+    "name": "Dr. Ramesh Kulkarni",
+    "email": "owner@ghardekho.com",
+    "role": "OWNER",
+    "phone": "+91 98450 99887",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150",
+    "city": "Pune"
+  },
+  {
+    "customId": "usr_dealer_unsub",
+    "name": "Vikram Sethi",
+    "agencyName": "Sethi Prime Properties",
+    "email": "dealer.unsub@ghardekho.com",
+    "role": "DEALER",
+    "phone": "+91 98111 22334",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150",
+    "city": "Delhi NCR",
+    "subscription": {
+      "planId": null,
+      "planName": null,
+      "isActive": false,
+      "isExpired": false,
+      "startedAt": null,
+      "expiresAt": null,
+      "daysRemaining": 0
+    }
+  },
+  {
+    "customId": "usr_dealer_sub",
+    "name": "Sunita & Rajesh Singhania",
+    "agencyName": "Apex Realty Solutions",
+    "email": "dealer.sub@ghardekho.com",
+    "role": "DEALER",
+    "phone": "+91 98201 44556",
+    "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150",
+    "city": "Mumbai",
+    "subscription": {
+      "planId": "plan_6m",
+      "planName": "Half-Year Momentum",
+      "isActive": true,
+      "isExpired": false,
+      "startedAt": "2026-08-01T00:00:00Z",
+      "expiresAt": "2027-02-01T00:00:00Z",
+      "daysRemaining": 127
+    }
+  },
+  {
+    "customId": "usr_admin_1",
+    "name": "Priya Nambiar (Admin)",
+    "email": "admin@ghardekho.com",
+    "role": "ADMIN",
+    "phone": "+91 99000 88888",
+    "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150",
+    "city": "Bengaluru"
+  }
+]
